@@ -1,0 +1,301 @@
+{
+    "preload": {
+        "files": [
+            {
+                "type": "image",
+                "key": "level1",
+                "url": "./assets/images/level1.png"
+            },
+            {
+                "type": "image",
+                "key": "level2",
+                "url": "./assets/images/level2.png"
+            },
+            {
+                "type": "image",
+                "key": "level3",
+                "url": "./assets/images/level3.png"
+            },
+            {
+                "type": "image",
+                "key": "level4",
+                "url": "./assets/images/level4.png"
+            },
+            {
+                "type": "image",
+                "key": "level5",
+                "url": "./assets/images/level5.png"
+            },
+            {
+                "type": "image",
+                "key": "level6",
+                "url": "./assets/images/level6.png"
+            },
+            {
+                "type": "image",
+                "key": "level7",
+                "url": "./assets/images/level7.png"
+            },
+            {
+                "type": "image",
+                "key": "level8",
+                "url": "./assets/images/level8.png"
+            },
+            {
+                "type": "image",
+                "key": "level9",
+                "url": "./assets/images/level9.png"
+            },
+            {
+                "type": "image",
+                "key": "level10",
+                "url": "./assets/images/level10.png"
+            },
+            {
+                "type": "image",
+                "key": "level11",
+                "url": "./assets/images/level11.png"
+            },
+            {
+                "type": "image",
+                "key": "level12",
+                "url": "./assets/images/level12.png"
+            },
+            {
+                "type": "image",
+                "key": "level13",
+                "url": "./assets/images/level13.png"
+            },
+            {
+                "type": "image",
+                "key": "level14",
+                "url": "./assets/images/level14.png"
+            },
+            {
+                "type": "image",
+                "key": "level15",
+                "url": "./assets/images/level15.png"
+            },
+            {
+                "type": "image",
+                "key": "level16",
+                "url": "./assets/images/level16.png"
+            },
+            {
+                "type": "image",
+                "key": "level17",
+                "url": "./assets/images/level17.png"
+            },
+            {
+                "type": "image",
+                "key": "level18",
+                "url": "./assets/images/level18.png"
+            },
+            {
+                "type": "image",
+                "key": "level19",
+                "url": "./assets/images/level19.png"
+            },
+            {
+                "type": "image",
+                "key": "level20",
+                "url": "./assets/images/level20.png"
+            },
+            {
+                "type": "image",
+                "key": "level21",
+                "url": "./assets/images/level21.png"
+            },
+            {
+                "type": "image",
+                "key": "level22",
+                "url": "./assets/images/level22.png"
+            },
+            {
+                "type": "image",
+                "key": "level23",
+                "url": "./assets/images/level23.png"
+            },
+            {
+                "type": "image",
+                "key": "level24",
+                "url": "./assets/images/level24.png"
+            },
+            {
+                "type": "image",
+                "key": "level25",
+                "url": "./assets/images/level25.png"
+            },
+            {
+                "type": "image",
+                "key": "level26",
+                "url": "./assets/images/level26.png"
+            },
+            {
+                "type": "image",
+                "key": "level27",
+                "url": "./assets/images/level27.png"
+            },
+            {
+                "type": "image",
+                "key": "level28",
+                "url": "./assets/images/level28.png"
+            },
+            {
+                "type": "image",
+                "key": "level29",
+                "url": "./assets/images/level29.png"
+            },
+            {
+                "type": "image",
+                "key": "level30",
+                "url": "./assets/images/level30.png"
+            },
+            {
+                "type": "image",
+                "key": "level31",
+                "url": "./assets/images/level31.png"
+            },
+            {
+                "type": "image",
+                "key": "level32",
+                "url": "./assets/images/level32.png"
+            },
+            {
+                "type": "image",
+                "key": "level33",
+                "url": "./assets/images/level33.png"
+            },
+            {
+                "type": "image",
+                "key": "level34",
+                "url": "./assets/images/level34.png"
+            },
+            {
+                "type": "image",
+                "key": "level35",
+                "url": "./assets/images/level35.png"
+            },
+            {
+                "type": "image",
+                "key": "level36",
+                "url": "./assets/images/level36.png"
+            },
+            {
+                "type": "image",
+                "key": "level37",
+                "url": "./assets/images/level37.png"
+            },
+            {
+                "type": "image",
+                "key": "level38",
+                "url": "./assets/images/level38.png"
+            },
+            {
+                "type": "image",
+                "key": "level39",
+                "url": "./assets/images/level39.png"
+            },
+            {
+                "type": "image",
+                "key": "level40",
+                "url": "./assets/images/level40.png"
+            },
+            {
+                "type": "image",
+                "key": "level41",
+                "url": "./assets/images/level41.png"
+            },
+            {
+                "type": "image",
+                "key": "level42",
+                "url": "./assets/images/level42.png"
+            },
+            {
+                "type": "image",
+                "key": "level43",
+                "url": "./assets/images/level43.png"
+            },
+            {
+                "type": "image",
+                "key": "level44",
+                "url": "./assets/images/level44.png"
+            },
+            {
+                "type": "image",
+                "key": "level45",
+                "url": "./assets/images/level45.png"
+            },
+            {
+                "type": "image",
+                "key": "level46",
+                "url": "./assets/images/level46.png"
+            },
+            {
+                "type": "image",
+                "key": "level47",
+                "url": "./assets/images/level47.png"
+            },
+            {
+                "type": "image",
+                "key": "level48",
+                "url": "./assets/images/level48.png"
+            },
+            {
+                "type": "image",
+                "key": "level49",
+                "url": "./assets/images/level49.png"
+            },
+            {
+                "type": "image",
+                "key": "level50",
+                "url": "./assets/images/level50.png"
+            },
+            {
+                "type": "image",
+                "key": "boom",
+                "url": "./assets/images/boom.png"
+            },
+            {
+                "type": "image",
+                "key": "dua",
+                "url": "./assets/images/dua.png"
+            },
+            {
+                "type": "image",
+                "key": "success",
+                "url": "./assets/images/success.png"
+            },
+            {
+                "type": "image",
+                "key": "star",
+                "url": "./assets/images/star.png"
+            },
+            {
+                "type": "image",
+                "key": "cricle",
+                "url": "./assets/images/cricle.png"
+            },
+            {
+                "type": "image",
+                "key": "zoomout",
+                "url": "./assets/images/zoomout.png"
+            },
+            {
+                "type": "image",
+                "key": "zoomin",
+                "url": "./assets/images/zoomin.png"
+            },      
+            {
+                "type": "image",
+                "key": "nextlevel",
+                "url": "./assets/images/nextlevel.png"
+            },
+            {
+                "type": "image",
+                "key": "backlevel",
+                "url": "./assets/images/backlevel.png"
+            }
+        ]
+    }
+}
